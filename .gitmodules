@@ -1,0 +1,3 @@
+[submodule "code/cross-sim"]
+	path = code/cross-sim
+	url = https://github.com/sandialabs/cross-sim
