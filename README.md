@@ -53,8 +53,9 @@ The project is structured as follows:
 
 - [Python](https://www.python.org/) (version 3.7.6)
 - [NumPy](https://numpy.org/) (version 1.20.3)
-- [Matplotlib](https://matplotlib.org/) (version X.X.X)
-- [Jupyter Notebook](https://jupyter.org/) (version X.X.X) for running the notebooks
+- [Matplotlib](https://matplotlib.org/) (version 3.4.3)
+- [SciPy](https://scipy.org/) (version 1.7.1)
+- [Pandas](https://pandas.pydata.org/) (version 1.3.3)
 
 Make sure to install these dependencies before running the code.
 
