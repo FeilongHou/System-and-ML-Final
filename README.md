@@ -51,8 +51,8 @@ The project is structured as follows:
 
 ## Requirements
 
-- [Python](https://www.python.org/) (version X.X.X)
-- [NumPy](https://numpy.org/) (version X.X.X)
+- [Python](https://www.python.org/) (version 3.7.6)
+- [NumPy](https://numpy.org/) (version 1.20.3)
 - [Matplotlib](https://matplotlib.org/) (version X.X.X)
 - [Jupyter Notebook](https://jupyter.org/) (version X.X.X) for running the notebooks
 
