@@ -1,0 +1,8 @@
+Matrix 1 Weight Limit =  1.0839
+Matrix 2 Weight Limit =  1.33305
+
+iteration // avg loss (train) // max loss (train) // fraction correct (test)
+0 // 0 // 0 // 0.094
+2245.94140625
+1 // 1.01412 // 15.2761 // 0.7378
+2249.40625

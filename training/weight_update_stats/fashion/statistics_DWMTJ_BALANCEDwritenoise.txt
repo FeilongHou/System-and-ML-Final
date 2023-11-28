@@ -1,0 +1,10 @@
+
+Task: fashion
+Look-up table set: numeric
+# updates: 100000
+Mean error: 0.0
+Spread error: 0.0
+Spread positive error: 0.0
+Spread negative error: 0.0
+Asymmetry: 0.0
+ 
